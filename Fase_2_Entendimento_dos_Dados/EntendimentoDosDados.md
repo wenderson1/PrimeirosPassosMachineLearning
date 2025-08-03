@@ -10,3 +10,9 @@
 - Explorar os primeiros registros para entender a estrutura de dados;
 
 ## 2.3 - Exploração dos Dados
+- Visualizar os dados usando gráficos (histogramas, gráficos de dispersão, etc.);
+- Identificar tendências, padrões e anomalias;
+- Calcular estatísticas descritivas (média, desvio padrão, quartis, etc.);
+- Realizar análises preliminares para entender a distribuição dos valores.
+
+## 2.4 - Verificação da qualidade dos dados
